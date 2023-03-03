@@ -30,7 +30,8 @@ Metrics List (this contains most of the metrics you need for the dashboard and y
 
 # Data Model
 
-![vc](https://user-images.githubusercontent.com/119112730/222453114-2a74657e-2390-4bfb-8353-da4074148d20.png)
+![cc](https://user-images.githubusercontent.com/119112730/222640611-4716a972-4926-4157-9c6b-400c0e0ad7bc.png)
+
 
 # Overall Analysis View
 
